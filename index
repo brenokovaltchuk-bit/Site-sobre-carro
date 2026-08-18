@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CLUBE DOS CAROS </title>
+  <title>CLUBE DOS CARROS </title>
 
   <style>
     * {
@@ -158,10 +158,10 @@
         </div>
       </div>
       <div class="card">
-        <img src="https://images.unsplash.com/photo-1557223562-6c77ef16210f?w=600&auto=format&fit=crop&quot; alt="Encontro de caminhões arqueados">
+        <img src=https://www.estadao.com.br/resizer/v2/7UP7ZS5DSZFPNLDD42UTWUMX2Y.jpg?quality=80&auth=46a9058aec5d82e1eefd71017a9da21f096ae6b2118aa6a76ed3bb545e8bcc7f&width=1262&height=710&smart=true
         <div class="card-content">
           <h3>Eventos</h3>
-          <p>Encontros dos </p>
+          <p>Encontros dos melhores Alemães e Japoneses </p>
         </div>
       </div>
     </div>
